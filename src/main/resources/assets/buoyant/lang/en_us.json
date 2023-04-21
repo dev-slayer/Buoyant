@@ -1,0 +1,41 @@
+{
+  "buoyant.midnightconfig.title": "Buoyant Config",
+
+  "buoyant.midnightconfig.tooltip": "Density Tooltips",
+  "buoyant.midnightconfig.tooltip_color": "Density Tooltip Color",
+
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.RED": "§cRed",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.DARK_RED": "§4Dark Red",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.GOLD": "§6Gold",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.YELLOW": "§eYellow",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.GREEN": "§aGreen",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.DARK_GREEN": "§2Dark Green",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.AQUA": "§bAqua",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.DARK_AQUA": "§3Dark Aqua",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.BLUE": "§9Blue",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.DARK_BLUE": "§1Dark Blue",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.DARK_PURPLE": "§5Dark Purple",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.PURPLE": "§dPurple",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.GRAY": "§7Gray",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.DARK_GRAY": "§8Dark Gray",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.WHITE": "§fWhite",
+  "buoyant.midnightconfig.enum.TOOLTIP_COLORS.BLACK": "§0Black",
+
+  "buoyant.midnightconfig.enum.TOOLTIP_OPTIONS.YES": "Yes",
+  "buoyant.midnightconfig.enum.TOOLTIP_OPTIONS.NO": "No",
+  "buoyant.midnightconfig.enum.TOOLTIP_OPTIONS.SHIFT": "Shift",
+
+  "buoyant.midnightconfig.super_buoyant": "Super Buoyant",
+  "buoyant.midnightconfig.buoyant": "Buoyant",
+  "buoyant.midnightconfig.low": "Low",
+  "buoyant.midnightconfig.neutral": "Neutral",
+  "buoyant.midnightconfig.high": "Dense",
+  "buoyant.midnightconfig.super_high": "Super Dense",
+
+  "buoyant.tooltips.super_buoyant": "Super Buoyant",
+  "buoyant.tooltips.buoyant": "Buoyant",
+  "buoyant.tooltips.low": "Low",
+  "buoyant.tooltips.neutral": "Neutral",
+  "buoyant.tooltips.high": "Dense",
+  "buoyant.tooltips.super_high": "Super Dense"
+}
