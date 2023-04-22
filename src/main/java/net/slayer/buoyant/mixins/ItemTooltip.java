@@ -26,10 +26,10 @@ public abstract class ItemTooltip {
                 tooltip.add(Text.translatable("buoyant.tooltips.buoyant").formatted(Formatting.valueOf(String.valueOf(Config.TOOLTIP_COLOR))));
             } else if (stack.isIn(RegisterTags.Items.SUPER_BUOYANT)) {
                 tooltip.add(Text.translatable("buoyant.tooltips.super_buoyant").formatted(Formatting.valueOf(String.valueOf(Config.TOOLTIP_COLOR))));
-            } else if (stack.isIn(RegisterTags.Items.HEAVY)) {
-                tooltip.add(Text.translatable("buoyant.tooltips.high").formatted(Formatting.valueOf(String.valueOf(Config.TOOLTIP_COLOR))));
-            } else if (stack.isIn(RegisterTags.Items.SUPER_HEAVY)) {
-                tooltip.add(Text.translatable("buoyant.tooltips.super_high").formatted(Formatting.valueOf(String.valueOf(Config.TOOLTIP_COLOR))));
+            } else if (stack.isIn(RegisterTags.Items.DENSE)) {
+                tooltip.add(Text.translatable("buoyant.tooltips.dense").formatted(Formatting.valueOf(String.valueOf(Config.TOOLTIP_COLOR))));
+            } else if (stack.isIn(RegisterTags.Items.SUPER_DENSE)) {
+                tooltip.add(Text.translatable("buoyant.tooltips.super_dense").formatted(Formatting.valueOf(String.valueOf(Config.TOOLTIP_COLOR))));
             } else {
                 tooltip.add(Text.translatable("buoyant.tooltips.neutral").formatted(Formatting.valueOf(String.valueOf(Config.TOOLTIP_COLOR))));
             }

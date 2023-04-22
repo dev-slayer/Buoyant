@@ -9,9 +9,9 @@ import net.slayer.buoyant.Buoyant;
 public class RegisterTags {
     public static class Items {
         public static final TagKey<Item> BUOYANT = TagKey.of(RegistryKeys.ITEM, new Identifier("buoyant", "buoyant"));
-        public static final TagKey<Item> HEAVY = TagKey.of(RegistryKeys.ITEM, new Identifier("buoyant", "dense"));
+        public static final TagKey<Item> DENSE = TagKey.of(RegistryKeys.ITEM, new Identifier("buoyant", "dense"));
         public static final TagKey<Item> SUPER_BUOYANT = TagKey.of(RegistryKeys.ITEM, new Identifier("buoyant", "super_buoyant"));
-        public static final TagKey<Item> SUPER_HEAVY = TagKey.of(RegistryKeys.ITEM, new Identifier("buoyant", "super_dense"));
+        public static final TagKey<Item> SUPER_DENSE = TagKey.of(RegistryKeys.ITEM, new Identifier("buoyant", "super_dense"));
 
 
         private static TagKey<Item> createTag(String name) {

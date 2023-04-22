@@ -12,9 +12,9 @@ public class Config extends MidnightConfig {
     public enum TOOLTIP_COLORS {
         RED, DARK_RED, GOLD, YELLOW, GREEN, DARK_GREEN, AQUA, DARK_AQUA, BLUE, DARK_BLUE, DARK_PURPLE, PURPLE, GRAY, DARK_GRAY, WHITE, BLACK
     }
-    @Entry(name = "buoyant.midnightconfig.super_buoyant") public static float SUPER_BUOYANT_VALUE = 0.01f;
-    @Entry(name = "buoyant.midnightconfig.buoyant") public static float BUOYANT_VALUE = 0f;
-    @Entry(name = "buoyant.midnightconfig.neutral") public static float NEUTRAL_VALUE = -0.005f;
-    @Entry(name = "buoyant.midnightconfig.high") public static float HEAVY_VALUE = -0.025f;
-    @Entry(name = "buoyant.midnightconfig.super_high") public static float SUPER_HEAVY_VALUE = -0.05f;
+    @Entry(name = "buoyant.midnightconfig.super_buoyant", min = -10000, max = 10000) public static float SUPER_BUOYANT_VALUE = 0.01f;
+    @Entry(name = "buoyant.midnightconfig.buoyant", min = -10000, max = 10000) public static float BUOYANT_VALUE = 0f;
+    @Entry(name = "buoyant.midnightconfig.neutral", min = -10000, max = 10000) public static float NEUTRAL_VALUE = -0.005f;
+    @Entry(name = "buoyant.midnightconfig.high", min = -10000, max = 10000) public static float DENSE_VALUE = -0.025f;
+    @Entry(name = "buoyant.midnightconfig.super_high", min = -10000, max = 10000) public static float SUPER_DENSE_VALUE = -0.05f;
 }

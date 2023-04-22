@@ -29,10 +29,10 @@ public abstract class ItemEntityWater extends Entity {
             DEFINED_VALUE = Config.BUOYANT_VALUE;
         } else if (getStack().isIn(RegisterTags.Items.SUPER_BUOYANT)) {
             DEFINED_VALUE = Config.SUPER_BUOYANT_VALUE;
-        } else if (getStack().isIn(RegisterTags.Items.HEAVY)) {
-            DEFINED_VALUE = Config.HEAVY_VALUE;
-        } else if (getStack().isIn(RegisterTags.Items.SUPER_HEAVY)) {
-            DEFINED_VALUE = Config.SUPER_HEAVY_VALUE;
+        } else if (getStack().isIn(RegisterTags.Items.DENSE)) {
+            DEFINED_VALUE = Config.DENSE_VALUE;
+        } else if (getStack().isIn(RegisterTags.Items.SUPER_DENSE)) {
+            DEFINED_VALUE = Config.SUPER_DENSE_VALUE;
         } else {
             DEFINED_VALUE = Config.NEUTRAL_VALUE;
         }

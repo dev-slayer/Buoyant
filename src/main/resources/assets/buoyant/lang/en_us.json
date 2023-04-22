@@ -29,13 +29,13 @@
   "buoyant.midnightconfig.buoyant": "Buoyant",
   "buoyant.midnightconfig.low": "Low",
   "buoyant.midnightconfig.neutral": "Neutral",
-  "buoyant.midnightconfig.high": "Dense",
-  "buoyant.midnightconfig.super_high": "Super Dense",
+  "buoyant.midnightconfig.dense": "Dense",
+  "buoyant.midnightconfig.super_dense": "Super Dense",
 
   "buoyant.tooltips.super_buoyant": "Super Buoyant",
   "buoyant.tooltips.buoyant": "Buoyant",
   "buoyant.tooltips.low": "Low",
   "buoyant.tooltips.neutral": "Neutral",
-  "buoyant.tooltips.high": "Dense",
-  "buoyant.tooltips.super_high": "Super Dense"
+  "buoyant.tooltips.dense": "Dense",
+  "buoyant.tooltips.super_dense": "Super Dense"
 }

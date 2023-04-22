@@ -1,5 +1,17 @@
 {
   "values": [
+    {
+      "id": "naturescompass:naturescompass",
+      "required": false
+    },
+    {
+      "id": "fwaystones:end_stone_brick_waystone",
+      "required": false
+    },
+    {
+      "id": "villager-hats:farmer_hat",
+      "required": false
+    },
     "#minecraft:dampens_vibrations",
     "#minecraft:warped_stems",
     "#minecraft:wooden_buttons",
@@ -130,12 +142,7 @@
     "minecraft:enchanted_golden_apple",
     "minecraft:chorus_fruit",
     "minecraft:dried_kelp",
-    "minecraft:cod",
-    "minecraft:cooked_cod",
-    "minecraft:salmon",
-    "minecraft:cooked_salmon",
-    "minecraft:tropical_fish",
-    "minecraft:pufferfish",
+    "#minecraft:fishes",
     "minecraft:ink_sac",
     "minecraft:glow_ink_sac",
     "minecraft:scute",
