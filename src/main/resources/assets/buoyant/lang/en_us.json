@@ -37,5 +37,8 @@
   "buoyant.tooltips.low": "Low",
   "buoyant.tooltips.neutral": "Neutral",
   "buoyant.tooltips.dense": "Dense",
-  "buoyant.tooltips.super_dense": "Super Dense"
+  "buoyant.tooltips.super_dense": "Super Dense",
+
+  "modmenu.nameTranslation.buoyant": "Buoyant",
+  "modmenu.descriptionTranslation.buoyant": "Makes items that shouldn't float; not.\nThis mod is highly configurable via both Mod Menu and Datapacks, reference the Wiki to find out more!"
 }

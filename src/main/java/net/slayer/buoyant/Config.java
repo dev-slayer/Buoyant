@@ -15,6 +15,6 @@ public class Config extends MidnightConfig {
     @Entry(name = "buoyant.midnightconfig.super_buoyant", min = -10000, max = 10000) public static float SUPER_BUOYANT_VALUE = 0.01f;
     @Entry(name = "buoyant.midnightconfig.buoyant", min = -10000, max = 10000) public static float BUOYANT_VALUE = 0f;
     @Entry(name = "buoyant.midnightconfig.neutral", min = -10000, max = 10000) public static float NEUTRAL_VALUE = -0.005f;
-    @Entry(name = "buoyant.midnightconfig.high", min = -10000, max = 10000) public static float DENSE_VALUE = -0.025f;
-    @Entry(name = "buoyant.midnightconfig.super_high", min = -10000, max = 10000) public static float SUPER_DENSE_VALUE = -0.05f;
+    @Entry(name = "buoyant.midnightconfig.dense", min = -10000, max = 10000) public static float DENSE_VALUE = -0.025f;
+    @Entry(name = "buoyant.midnightconfig.super_dense", min = -10000, max = 10000) public static float SUPER_DENSE_VALUE = -0.05f;
 }

@@ -1,15 +1,17 @@
 {
 	"schemaVersion": 1,
 	"id": "buoyant",
-	"version": "${version}",
+	"version": "0.1.1",
 	"name": "Buoyant",
 	"description": "Makes items that shouldn't float; not.",
 	"authors": [
-		"SlayerDev"
+		"SlayerDev",
+		"wool"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/buoyant/versions",
+		"sources": "https://github.com/dev-slayer/Buoyant",
+		"issues": "https://github.com/dev-slayer/Buoyant/issues"
 	},
 	"custom": {
 		"modmenu": {
@@ -36,6 +38,6 @@
 		"fabric-api": "*"
 	},
 	"suggests": {
-		"another-mod": "*"
+		"mod-menu": "*"
 	}
 }
