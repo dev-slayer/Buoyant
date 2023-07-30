@@ -4,11 +4,10 @@
   "package": "net.slayer.buoyant.mixins",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "ItemEntityWater",
-    "ItemTooltip"
+    "BuoyancyMixin",
+    "TooltipMixin"
   ],
-  "client": [
-  ],
+  "client": [],
   "injectors": {
     "defaultRequire": 1
   }
