@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "buoyant",
-	"version": "0.1.2",
+	"version": "${version}",
 	"name": "Buoyant",
 	"description": "Makes items that shouldn't float; not.",
 	"authors": [
