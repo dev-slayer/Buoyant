@@ -3,7 +3,6 @@
       "minecraft:stone",
       "minecraft:stone_slab",
       "minecraft:stone_stairs",
-      "minecraft:stone_wall",
       "minecraft:stone_pressure_plate",
       "minecraft:stone_button",
       "minecraft:cobblestone",
@@ -118,7 +117,12 @@
       "minecraft:hopper_minecart",
       "minecraft:tnt_minecart",
       "minecraft:furnace_minecart",
-      "#minecraft:trident",
+      "minecraft:trident",
+      "minecraft:iron_shovel",
+      "minecraft:iron_axe",
+      "minecraft:iron_hoe",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_sword",
       "minecraft:iron_helmet",
       "minecraft:iron_chestplate",
       "minecraft:iron_leggings",
@@ -127,13 +131,11 @@
       "minecraft:chainmail_chestplate",
       "minecraft:chainmail_leggings",
       "minecraft:chainmail_boots",
-
       "minecraft:emerald_block",
       "minecraft:diamond_block",
       "minecraft:coal_block",
       "minecraft:redstone_block",
       "minecraft:lapis_block",
-
       "minecraft:white_concrete",
       "minecraft:orange_concrete",
       "minecraft:magenta_concrete",
@@ -167,18 +169,15 @@
       "minecraft:green_glazed_terracotta",
       "minecraft:red_glazed_terracotta",
       "minecraft:black_glazed_terracotta",
-
       "minecraft:calcite",
       "minecraft:tuff",
-      "minecraft:dripstone",
+      "minecraft:dripstone_block",
       "minecraft:pointed_dripstone",
-
       "minecraft:raw_copper",
       "minecraft:raw_gold",
       "minecraft:raw_iron",
       "minecraft:copper_ingot",
       "minecraft:gold_ingot",
       "minecraft:iron_ingot"
-      
     ]
   }

@@ -8,10 +8,9 @@
       "minecraft:soul_sand",
       "minecraft:slime_block",
       "minecraft:honey_block",
-      "#minecraft:fishing_rod",
-      "#minecraft:carrot_on_a_stick",
-      "#minecraft:warped_fungus_on_a_stick",
-
+      "minecraft:fishing_rod",
+      "minecraft:carrot_on_a_stick",
+      "minecraft:warped_fungus_on_a_stick",
       "minecraft:glass_bottle",
       "minecraft:barrel",
       "minecraft:shulker_box",

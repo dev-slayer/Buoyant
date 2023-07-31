@@ -1,7 +1,6 @@
 {
     "values": [
       "#minecraft:dampens_vibrations",
-      
       "#minecraft:wooden_buttons",
       "#minecraft:wooden_doors",
       "#minecraft:wooden_fences",
@@ -20,13 +19,11 @@
       "minecraft:jukebox",
       "minecraft:composter",
       "minecraft:muddy_mangrove_roots",
-      "#minecraft:elytra",
-      "#minecraft:lead",
-      "#minecraft:brush",
-
+      "minecraft:elytra",
+      "minecraft:lead",
+      "minecraft:brush",
       "minecraft:ice",
       "minecraft:packed_ice",
-
       "minecraft:stick",
       "minecraft:dead_bush",
       "minecraft:tube_coral",

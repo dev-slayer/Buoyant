@@ -40,7 +40,6 @@
       "#minecraft:anvil",
       "minecraft:cauldron",
       "minecraft:hopper",
-
       "minecraft:ancient_debris",
       "minecraft:netherite_scrap",
       "minecraft:netherite_ingot",
@@ -54,7 +53,6 @@
       "minecraft:golden_carrot",
       "minecraft:brick_slab",
       "minecraft:nether_brick",
-
       "minecraft:netherite_shovel",
       "minecraft:netherite_axe",
       "minecraft:netherite_hoe",
@@ -64,15 +62,12 @@
       "minecraft:netherite_chestplate",
       "minecraft:netherite_leggings",
       "minecraft:netherite_boots",
-
-      
       "minecraft:lodestone",  
       "minecraft:obsidian",
       "minecraft:crying_obsidian",
       "minecraft:respawn_anchor",
       "minecraft:enchanting_table",
       "minecraft:ender_chest",
-
       "minecraft:bedrock",
       "minecraft:reinforced_deepslate"
     ]
