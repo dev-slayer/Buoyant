@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "buoyant",
-	"version": "0.1.1",
+	"version": "${version}",
 	"name": "Buoyant",
 	"description": "Makes items that shouldn't float; not.",
 	"authors": [
@@ -33,7 +33,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.14.19",
-		"minecraft": "~1.19.4",
+		"minecraft": ">=1.19.4",
 		"java": ">=17",
 		"fabric-api": "*"
 	},
