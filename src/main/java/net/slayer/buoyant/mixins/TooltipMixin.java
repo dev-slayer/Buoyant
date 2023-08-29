@@ -16,7 +16,7 @@ import java.util.List;
 @Mixin(Item.class)
 public abstract class TooltipMixin {
 
-    @Inject(at = @At("TAIL"), method = "appendTooltip")
+    @Inject(at = @At("HEAD"), method = "appendTooltip")
     public void appendTooltip(ItemStack stack, World world, List<Text> tooltip, TooltipContext context, CallbackInfo ci) {
         BuoyantLogic.applyTooltips(stack,tooltip);
     }
